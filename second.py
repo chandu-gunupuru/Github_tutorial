@@ -1,0 +1,1 @@
+print("learn new things everyday")
